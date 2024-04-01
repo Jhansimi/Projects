@@ -1,0 +1,25 @@
+.bg-container{
+    background-color: whitesmoke;
+    padding:1px;
+    height:100vh;
+
+}
+
+.container{
+    background-color: aliceblue;
+    /* margin-bottom: 2px; */
+
+
+}
+
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 13px;
+    
+}
+
+button{
+    border:none
+}
